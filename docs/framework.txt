@@ -1,0 +1,356 @@
+Supervisory framework
+Know your requirements as an applicant or as a registered payment service provider and find out how we will assess compliance under the Retail Payment Activities Act.
+
+Registration
+Payment service providers (PSPs) must apply for registration with us to continue providing their services.
+
+Access all supervisory policies and additional resources related to registration.
+Who is subject to the Retail Payment Activities Act
+Individuals or entities who meet all four of the following criteria must register with us by submitting an application and paying a registration fee.
+
+Be a payment service provider
+Perform one or more payment functions that are not incidental to another service or business activity
+Perform a retail payment activity
+Perform payment functions related to an electronic funds transfer made in Canadian or foreign currencies (excluding digital currencies)
+Meet certain geographic scope
+Have a place of business in Canada regardless of where their end users are or where they direct their services
+Have a place of business outside of Canada but perform retail payment activities for an end user in Canada and direct retail payment activities at individuals or entities in Canada
+Foreign PSPs who are subject to the RPAA are required to register with us even if they are not incorporated in Canada or registered as a foreign money service business with the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC). They will be supervised and generally treated in the same manner as a domestic PSP and will be subject to our enforcement actions.
+
+Perform payment functions that are not excluded from the RPAA and associated regulations
+Individuals and entities excluded under the RPAA include:
+banks and authorized foreign banks (pursuant to the Bank Act)
+credit unions, insurance companies, and trust and loan companies
+agents and mandataries of PSPs
+Payments Canada
+the Society for Worldwide Interbank Financial Telecommunication (SWIFT)
+Activities excluded under the RPAA include:
+transactions using automatic banking machines
+internal transactions among affiliated entities
+securities transactions performed by an individual or entity that is regulated or exempted from regulation under Canadian securities legislation
+Process for registration
+We have developed a web application (PSP Connect) for applicants and registered PSPs. Among other activities, applicants and registered PSPs will be required to use PSP Connect to:
+
+submit their registration information
+keep their information up to date
+pay the registration fee
+comply with the reporting requirements under the RPAA
+When to apply for registration
+Individuals or entities who plan to operate after September 8, 2025, should apply to register with us as soon as possible to allow us to start processing their registration application.
+
+PSPs that operate without having submitted their application may be in violation of section 104 of the RPAA. This is a serious violation and could result in the issuance of a notice of violation (NOV) that may be accompanied by a substantial administrative monetary penalty.
+
+Information about NOVs will be published on our website including the name of the PSP, the nature of the violation and the penalty, as applicable.
+
+We will continue to publish and maintain a list of applicants and registered PSPs on our website.
+
+The list of applicants includes the following information, as provided by the applicants:
+
+all legal and trade names
+head office country
+head office city
+any website address
+date of application
+How to apply for registration
+1. Create an account in PSP Connect
+PSPs will not be able to register without an account in PSP Connect.
+
+2. Prepare your information
+Fill in the registration application form in PSP Connect. Information you will need to provide includes (if applicable):
+
+contact information, including for any third parties, agents and mandataries, and affiliated entities
+business structure, ownership, debtholders and key staff
+retail payment functions that you perform or plan to perform, including any agents and mandataries or affiliates that may be performing retail payment functions on your behalf
+the actual or projected values and volumes of end-user funds held, both inside and outside of Canada
+the actual or projected number of end-users, both inside and outside of Canada
+the method(s) you use or plan to use to safeguard end-user funds
+whether you have in place or have plans to establish a risk management and incident response framework
+any registrations for retail payment activities with FINTRAC or under any other federal, provincial or territorial act
+For more information about the application content requirements, you can consult subsection 29(1) of the RPAA and subsection 24(1) of the regulations.
+3. Pay the registration application fee
+You will be asked to pay a prescribed one-time, non-refundable registration application fee when submitting your application. This fee must be paid in full using a credit card or an electronic funds transfer. We will start assessing your application only once you have paid the application fee.
+
+4. Complete the application form
+To help you gather the documents needed to complete the application form, refer to the How to complete a registration application: A step-by-step guide.
+
+Foreign PSPs must identify in their registration application any agents or mandataries acting on their behalf in Canada. We will provide those agents or mandataries with notices given or served as well as orders made under the RPAA.
+What to expect after submitting an application
+Applicants will receive a notice through PSP Connect confirming receipt of the application and registration fee. Submitted applications cannot be cancelled.
+
+We will then begin reviewing the application. Applicants may need to respond to requests for information to allow us to process their application.
+
+During the review we will share the applications of individuals and entities who meet the registration criteria of the RPAA with:
+
+the Department of Finance Canada to conduct a national security screening
+FINTRAC
+Once registered, PSPs must:
+
+comply with the requirements of the RPAA
+pay an annual assessment fee
+keep their information up to date
+Registration decisions
+We will publish registration decisions on our website as national security screenings are completed including lists of:
+
+registered PSPs
+individuals or entities that had their registration refused or PSPs that had their registration revoked and the reasons why, including if a PSP has stopped operating
+Refused or revoked registrations
+Registration may be refused or revoked if the applicant or PSP:
+
+fails to meet the criteria for registration
+fails to provide additional information that was requested
+provides false or misleading information
+ceases to perform retail payment activities
+commits a violation under the RPAA
+fails to pay the annual assessment fee
+We can also refuse or revoke registration from applicants or PSPs based on information provided by FINTRAC.
+
+We must refuse or revoke registration under a directive from the Minister of Finance if:
+
+national security reasons exist
+the applicant fails to provide additional information to the Minister
+the applicant fails to comply with undertakings or conditions issued by the Minister
+the applicant provides false or misleading information to the Minister
+We will monitor unregistered, refused and revoked individuals or entities who perform payment services to make sure that those who are subject to the RPAA register with us. Enforcement actions can be used to ensure that individuals or entities comply with the registration requirement.
+
+Reviews and appeals of registration decisions
+If a registration is refused or revoked, an individual or entity can request a review within 30 days following the day on which they receive the decision.
+
+The RPAA allows for two kinds of reviews: one by the Bank of Canada and one by the Minister of Finance.
+
+Prescribed review of registration decisions
+Individuals or entities whose registration has been refused or revoked can request that the Bank of Canada review the decision, as set out in the RPAA.
+
+The authority to issue a ruling on the review has been delegated by the Governor to the Executive Director of Payments and Regulatory Oversight. Information about the delegation of these powers, duties and functions was published in the Canada Gazette on June 15, 2024.
+
+The Governor’s delegate will analyze the request and either confirm or overturn the original supervisory decision. Individuals and entities can subsequently appeal the review of registration decision to the Federal Court.
+
+Subsection 31(2) of the regulations requires the Governor‘s delegate to make a decision within 90 days beginning on the day after the day that the applicant requests the review. We will notify the applicant of the decision as soon as feasible.
+
+Minister of Finance review
+An individual or entity whose registration has been refused or revoked by a directive from the Minister of Finance can request a review by the Minister.
+
+The Minister or a delegate will analyze the request along with the original decision and either uphold the decision or make a different one.
+
+Individuals or entities can appeal the Minister of Finance’s decision to the Federal Court.
+
+New applications for registration
+Registered PSPs must submit a new registration application if:
+
+an individual or entity plans to acquire control over them
+a state-owned enterprise plans to acquire the right to appoint the PSP’s chief executive officer or other senior management, to acquire rights to elect members of the PSP’s board of directors, or to acquire an ownership interest in them
+In both cases, after the new application has been submitted, the PSP must have its new registration approved before the changes can take place.
+
+individuals or entities whose registration has been refused or revoked may also submit a new application. If applicable, these new applications should be submitted after the prescribed review by the Bank or the Minister of Finance’s review has been completed.
+
+
+Supervision
+PSPs who have submitted a registration application to the Bank, and those who are registered with us must mitigate their operational risks, respond to incidents and safeguard end-user funds under the Retail Payment Activities Act (RPAA). The Department of Finance Canada published regulations in Part II of the Canada Gazette on November 22, 2023 to clarify details of the RPAA.
+
+The requirements to establish risk management and funds safeguarding frameworks came into force on September 8, 2025.
+
+Access all supervisory policies and guidelines related to supervision.
+Mitigating operational risk and responding to incidents
+PSPs must have a framework to manage their operational risks and their response to incidents.
+
+The framework should demonstrate how PSPs aim to preserve the integrity, confidentiality and availability of their payment activities and related systems, data and information.
+
+To meet this requirement, PSPs need to:
+
+identify their operational risks, assets and business processes
+protect their retail payment activities, assets and business processes from those risks
+detect, respond to and recover from incidents
+set roles and responsibilities for managing operational risks and incident response
+have adequate resources to maintain their framework
+review and test their framework as required
+manage risks that could arise from third-party service providers and agents and mandataries related to their retail payment activities
+PSPs should customize their framework to reflect:
+
+the nature of their business operations
+the services they offer
+their organizational structure
+any other relevant factors
+PSPs must also report any incident that has a material impact on end users, other PSPs or certain clearing and settlement systems.
+
+For more information on how PSPs are expected to meet their requirements for mitigating operational risks and responding to incidents, read:
+
+Guideline on operational risk and incident response
+Operational risk and incident: At a glance
+FAQ on operational risk and incident response
+Safeguarding end-user funds
+PSPs that hold end-user funds must have measures to safeguard these funds until they are withdrawn or transferred. PSPs must either:
+
+hold funds in trust in a trust account
+hold funds in a segregated account and have insurance or a guarantee for those funds
+This requirement aims to:
+
+protect end-user funds against financial loss if a PSP becomes insolvent
+ensure that end users have reliable and timely access to their funds
+PSPs holding end-user funds must have a written framework that sets out:
+
+how the PSP will ensure that end users have reliable and timely access to their funds
+how the funds are paid to end users if the PSP becomes insolvent
+For more information on how PSPs are expected to meet the requirements for safeguarding end-user funds, read:
+
+
+Guideline on safeguarding end-user funds
+Safeguarding of end-user funds: At a glance
+FAQ on safeguarding end-user funds
+Mandatory reporting
+Registered PSPs must submit the following reports to support our monitoring and assessment of their alignment with our supervisory expectations.
+
+Individuals and entities that appear on the list of applicants are not expected to meet all reporting requirements, but must maintain the status of their registration application as set out below.
+
+Access all resources related to reporting.
+Annual report
+Purpose: To provide us with up-to-date registration information and information about operational risk management, incident response and safeguarding practices for end-user funds, if applicable
+Due date: Required no later than March 31 of the year following the reporting year
+For details read:
+
+
+Supervisory policy on annual reporting
+Annual reporting of retail payment activity metrics
+How to complete an annual report: A step-by-step guide 
+Significant change or new activity report
+Purpose: To notify us before a significant change in the way the PSPs performs a retail payment activity or before it performs a new retail payment activity
+Due date: Required at least five business days before the significant change is made or the new retail payment activity is performed
+Significant changes are those that are expected to materially affect how PSPs manage their operational risks or safeguard end-user funds.
+
+For further information on how we expect PSPs to meet the requirements related to significant change or new activity notices, read:
+
+
+Guideline on notice of significant change or new activity
+How to complete a notice of significant change or new activity: A step-by-step guide 
+Incident notice
+Purpose: To notify us of incidents that have a material impact on end users, other PSPs or certain clearing and settlement systems
+Due date: Required without delay once an incident occurs
+For further information on how we expect PSPs to meet the requirements related to incident notices, read:
+
+Guideline on incident notification
+How to complete an incident notice: A step-by-step guide
+Our assessment
+We will evaluate whether a PSP meets the requirements outlined in the RPAA and its associated regulations through information collected from various sources, including:
+
+responses to our information requests received from PSPs
+reports submitted by registered PSPs, including annual, significant change and incident reports
+Our assessment may involve meetings and discussions with PSPs and could include:
+
+a desk assessment—We may ask PSPs to submit information and documents, such as policies and procedures, for our review. The assessment is conducted remotely without a physical visit to the PSPs premises.
+an on-site assessment—We may conduct on-site visits to PSPs’ offices to observe practices and hold meetings and discussions with key subject matter experts.
+a special audit—We may require PSPs to undergo an audit with a scope that we define. This could supplement an assessment or be requested separately from an assessment. If a special audit is required, we will notify the PSP.
+For all methods of assessment, both registerd PSPs and those who appear on the list of applicants are required to respond to our Requests for Information. PSPs must also submit any supporting document that is requested.
+
+The regulations specify the timelines for responding to Request for information. PSPs will typically have 15 days to respond to requests but may need to submit information within 24 hours in specific circumstances. In all cases, PSPs should provide the requested documents within the time frame specified in the regulations. We may also use additional methods of communication (e.g., PSP Connect messages, phone calls, meetings) to clarify information previously provided or to seek additional information. PSPs are expected to respond to such communication.
+
+PSP Connect will serve as the PSP’s primary communication channel, where all communication is expected to take place. Communication in PSP Connect could include receiving and responding to Requests for Information and to other messages from the Bank.
+
+We may identify areas where PSPs do not meet our supervisory expectations following our assessment. In such cases, we will expect PSPs to take corrective measures to address these identified gaps. We will then verify that PSPs have implemented the necessary corrective actions.
+
+What to expect 
+All PSPs are subject to continuous monitoring, which is supported through ongoing reporting activities including annual reporting, incident notifications and significant change or new activity notices. In addition, a PSP can expect to periodically undergo an assessment of whether it meets our supervisory expectations. We will set a minimum frequency for assessing whether a PSP meets our supervisory expectations. This will allow us to:
+
+take a risk-based approach to our analysis
+work efficiently
+promote compliance 
+We recognize that PSPs have different business structures and operational processes. We will therefore consider the risk posed by each PSP and take a proportional approach when determining whether PSPs meet our supervisory expectations.
+
+We will contact PSPs that do not meet our supervisory expectations to:
+
+inform them of compliance gaps
+seek corrective measures
+take enforcement action where appropriate
+Enforcement
+We have a set of enforcement tools and actions to address violations of the RPAA and its regulations that we may take. These actions aim to promote compliance with the RPAA and support confidence in the Canadian retail payments sector.
+
+Access all supervisory policies related to enforcement.
+Investigations
+We may investigate PSPs to identify any gaps in their compliance with the RPAA and its regulations. If we have reasonable grounds to believe that a violation has occurred, we may take enforcement action against a PSP.
+
+We can use any information gathered during our supervision and registration activities to identify a violation. We could use the following methods as part of our investigation:
+
+desk investigation
+on-site investigation
+special audit
+We can take enforcement actions against PSPs that do not:
+
+apply for registration with us before performing retail payment activities
+submit their mandatory reports and notices
+respond to an information request
+comply with the required operational risk and incident response practices as stipulated in the RPAA
+comply with the required safeguarding practices for end-user funds as stipulated in the RPAA
+Enforcement tools
+We have a suite of tools available to promote compliance. We can use any of the following enforcement tools, depending on the violation.
+
+Warning letter
+We can issue a warning letter to PSPs to identify areas of non-compliance and seek corrective actions. The letter will include:
+
+the PSP’s violation or potential violation
+our expectations on corrective actions to address the violation
+any possible escalation of enforcement for future violations
+Compliance agreement
+We can enter into a formal compliance agreement with a PSP to rectify non-compliance, including concerns regarding the PSP’s operational risk or safeguarding practices for end-user funds.
+
+If a PSP does not adhere to the terms of a compliance agreement, we may issue a NOV with an administrative monetary penalty (AMP).
+
+For further information on compliance agreements, refer to the Entering into a compliance agreement with the Bank of Canada policy.
+
+Notice of violation
+We can issue a NOV for violations of the RPAA. A NOV can be accompanied by an AMP or an offer to enter into a compliance agreement.
+
+Specific criteria defined in the regulations determine the amount of the AMP. These criteria include:
+
+the actual harm caused by the violation
+the potential harm that the violation could have caused
+the history of previous violations
+the level of intention or negligence involved
+
+The amount of the AMP is cut by half if the affected party enters into a compliance agreement that was offered as part of the NOV. The reduced AMP is intended to encourage PSPs to follow the agreement and to direct their resources at addressing the underlying issue.
+PSPs that enter into a compliance agreement as part of an NOV and fail to meet the terms and conditions of the agreement are liable to pay the remaining half of the AMP as well as an additional prescribed penalty. The prescribed penalty is equal to the original amount of the AMP set out in the NOV.
+
+Once we complete all proceedings of our enforcement action, we will publish information about NOVs on our website. This information will include:
+
+the name of the PSP
+the nature of the violation
+the amount of the AMP imposed, if applicable
+the reasons for the NOV
+a brief description of the compliance agreement, if applicable
+For further information on AMP, refer to the Administrative monetary penalties policy.
+
+For further information on compliance agreements, refer to the Entering into a compliance agreement with the Bank of Canada policy.
+
+Compliance order
+If the Bank of Canada believes that a PSP is committing, or is about to commit, an act that could have a significant adverse impact on end users, other PSPs or certain clearing and settlement systems, the Bank of Canada may order a PSP to:
+
+stop the action
+refrain from taking the action
+remedy the situation
+Since a compliance order can be issued when a PSP is about to commit an act, it can be initiated at any stage of supervision to prevent a significant adverse impact.
+
+The authority to issue the compliance order was delegated to the Managing Director of the Supervision Department. Information about the delegation of these powers, duties and functions was published in the Canada Gazette on June 15, 2024.
+
+For further information on significant adverse impact, refer to the Significant adverse impact policy.
+
+Court enforcement
+The Bank of Canada can apply to a superior court for an order requiring a PSP to:
+
+stop an action that violates the RPAA
+comply with a provision of the RPAA
+adhere to a compliance order
+The authority to apply to a superior court for an order was delegated to the Managing Director of the Supervision Department. Information about the delegation of these powers, duties and functions was published in the Canada Gazette on June 15, 2024.
+
+What to expect
+We will take a graduated approach when applying enforcement actions. A graduated approach allows us to use an enforcement tool that is appropriate given the circumstances and the nature of the violation. For example, if the enforcement action did not result in a timely correction, we could choose to use another tool.
+
+This approach aligns with the risk-based approach we follow throughout our supervision.
+
+Our decisions are bound and supported by procedural fairness. We recognize that in making enforcement decisions, we must apply a process that is fair to the affected individual or entity. For example, we would give an individual or entity notice of an enforcement action and an opportunity to respond.
+
+The goal of enforcement actions is to encourage a change in behaviour and act as a general deterrent.
+
+Reviews and appeals
+As set out in the RPAA, individuals or entities who receive an NOV or a notice of default can request a review of the supervisory decision within 30 days following the day on which the PSP receives the notice.
+
+The authority to issue a ruling on the prescribed review has been delegated by the Governor to the Executive Director of Payments and Regulatory Oversight. Information about the delegation of these powers, duties and functions was published in the Canada Gazette on June 15, 2024.
+
+The Governor’s delegate analyzes the request along with the original decision and either confirms that decision or makes a different one. Individuals and entities can subsequently appeal the prescribed review decision to the Federal Court.
+
+For further information on how the Bank conducts prescribed reviews, refer to the reviews and appeals policy.
